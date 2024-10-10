@@ -1,2 +1,2 @@
-# portfolio-obsidian-vault
-Personal Portfolio of Awesome Projects by Yaroslav Korotkikh
+# Hello there!
+This is my UX design portfolio.
